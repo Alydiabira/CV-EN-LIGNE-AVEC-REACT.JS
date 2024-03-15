@@ -11,6 +11,8 @@ const Formations = () => {
           </div>
           <div className="grid__item">
             <h3 className="grid__title">{formation.title}</h3>
+            <h2 className="grid__title">{formation.text}</h2>
+
             <p className="grid__location">{formation.location}</p>
             <ul className="grid__missions">
               {formation.missions.map((mission, k) => (
