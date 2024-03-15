@@ -8,6 +8,9 @@
 .grid__title {
   margin-bottom: 0;
 }
+.grid__missions {
+  margin-bottom: 0;
+}
 .grid__location {
   font-weight: 300;
   color: var(--date-color);
