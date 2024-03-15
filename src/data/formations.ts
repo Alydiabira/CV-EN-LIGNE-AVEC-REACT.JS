@@ -2,7 +2,7 @@ const formationsData = [
   {
     title: "Concepteur Développeur d'application",
     date: "De mars 2023 à juillet 2023",
-    text:"", 
+    text:"La Grande Classe", 
     location: "La Grande Classe, 51 Rue Gaston Lauriau, 93100 Montreuil",
     missions: ["analyser les besoins à partir du cahier des charges défini par le client ou le chef de projet. ",
     "définir les différentes étapes de fonctionnement de l’application.", 
@@ -12,17 +12,25 @@ const formationsData = [
 
   },
   {
-    title: "BTS Informatique de Gestion Option Développeur d'applications",
-    date: "2007",
-    location: "LAVAL",
-    missions: ["Périodes militaire initiales/Découverte du milieu militaire ", "Participation à des activités militaires et sportives progressives et adaptées", "Développement du goût de l'effort", "Initiation aux techniques et connaissances de base du militaire", "Sensibilisation aux enjeux de la Défense Nationale"],
-
+    title: "Développeur Web PHP / Symfony niveau 6 (bac +3/4)",
+    date: "De janvier 2020 à mars 2020",
+    text:"Openclassrooms", 
+    location: "en Ligne",
+    missions: ["Concevoir des solutions numériques : vous créerez des architectures logicielles solides pour répondre aux besoins spécifiques des clients. ", 
+    "Développer des fonctionnalités : vous coderez des fonctionnalités avancées en utilisant PHP et le framework Symfony pour garantir des performances optimales.", 
+    "Optimiser et maintenir : vous assurerez la maintenance continue des applications existantes et veillerez à leur évolutivité.", 
+    "Tester et déboguer des applications pour garantir leur bon fonctionnement.",],
   },
   {
     title: " Baccalauréat STT Informatique et Gestion",
     date: "2005",
+    text:"La Grande Classe", 
     location: "LAVAL",
-    missions: ["Périodes militaire initiales/Découverte du milieu militaire ", "Participation à des activités militaires et sportives progressives et adaptées", "Développement du goût de l'effort", "Initiation aux techniques et connaissances de base du militaire", "Sensibilisation aux enjeux de la Défense Nationale"],
+    missions: ["mission", 
+    "mission", 
+    "mission", 
+    "mission", 
+  ],
 
   },
 ];
