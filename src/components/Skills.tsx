@@ -8,11 +8,11 @@ const Skills = () => {
       <div className="skills">
         <h2 className="h2">Compétences & Connaissance</h2>
         <Skill title="HTML" rating={5} />
-        <Skill title="CSS" rating={4} />
-        <Skill title="JAVASCRIPT" rating={4} />
-        <Skill title="REACT" rating={4} />
-        <Skill title="BOOTSTRAP" rating={3} />
-        <Skill title="Python" rating={5} />
+        <Skill title="CSS" rating={5} />
+        <Skill title="JAVASCRIPT" rating={2} />
+        <Skill title="REACT" rating={2} />
+        <Skill title="BOOTSTRAP" rating={5} />
+        <Skill title="Python" rating={2} />
         <Skill title="MSQL" rating={5} />
 
         
