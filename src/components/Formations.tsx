@@ -12,6 +12,13 @@ const Formations = () => {
           <div className="grid__item">
             <h3 className="grid__title">{formation.title}</h3>
             <p className="grid__location">{formation.location}</p>
+            <ul className="grid__missions">
+              {formation.missions.map((mission, k) => (
+                <li className="grid_missions" key={k}>
+                  {mission}
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       ))}
